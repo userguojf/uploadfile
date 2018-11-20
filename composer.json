@@ -1,0 +1,21 @@
+{
+    "name": "guojianfeng/uploadfile",
+    "description": "一个通用的文件上传包",
+    "type": "l",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "郭剑峰",
+            "email": "804087804@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+             "guojianfeng\\": "src/"
+    }
+}
+}
